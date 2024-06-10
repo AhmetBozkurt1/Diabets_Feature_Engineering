@@ -1,3 +1,5 @@
+<img width="900" alt="Ekran Resmi 2024-06-10 16 56 59" src="https://github.com/AhmetBozkurt1/Diabets_Feature_Engineering/assets/120393650/5fd3d8d1-b4a2-413c-9e4e-2115fbbe6b24">
+
 # 🩸⛑️ Feature Engineering & Machine Learning ile Diyabet Tahmini 💉🏥
 
 ☞ Bu proje, Amerika Birleşik Devletleri'nde bulunan Pima Indian kadınları üzerinde yapılan diyabet araştırması için kullanılan veri seti üzerinde çeşitli veri analizleri, feature     engineering ve machine learning modellemesi içerir. Projenin amacı, hamilelik sayısı, glikoz seviyeleri, vücut kitle indeksi gibi çeşitli özellikler kullanılarak bir kişinin diyabet hastalığına sahip olup olmadığını belirlemektir.
