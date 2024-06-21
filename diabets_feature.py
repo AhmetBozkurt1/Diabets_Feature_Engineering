@@ -49,7 +49,7 @@ pd.set_option('display.max_rows', None)
 pd.set_option('display.float_format', lambda x: '%.3f' % x)
 pd.set_option('display.width', 500)
 
-df = pd.read_csv("/Users/ahmetbozkurt/Desktop/Diabets_Feature_Engineering/dataset/diabetes.csv")
+df = pd.read_csv("diabetes.csv")
 df.head()
 df.shape
 
